@@ -9,8 +9,8 @@ This is my basics python projects that gives me the confident for programming.
 # List, DIctionary and tuple.
 # Modules Like (random).
 # Error handiling
+# and, or operators
 
                                                       ==Projects Included==
 
-1. Rock, Paper and scissor  
-   
+1. Rock, Paper and scissor     (60 lines)
