@@ -14,4 +14,4 @@ This is my basics python projects that gives me the confident for programming.
                                                 == Projects Included ==
 
 1. Rock, Paper and scissor        (60 lines)
-2. Password generator             (22 lines)
+2. Password generator             (62 lines)
