@@ -34,7 +34,7 @@ while True:
                 print("Draw\n")
         
             elif (
-            (user == "rock" and com == "scissors") or     #whwn player win
+            (user == "rock" and com == "scissors") or     #when player win
             (user == "paper" and com == "rock") or
             (user == "scissors" and com == "paper")
             ):
